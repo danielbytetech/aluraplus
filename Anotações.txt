@@ -11,3 +11,5 @@ Criando Layouts com CSS Grid Layout -> https://www.alura.com.br/artigos/criando-
 Display: inline-block -> https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-o-display-inline-block-4e6cba2f19d4
 
 Pseudo Classes -> https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes
+
+Outras formas de hospedagem -> https://www.alura.com.br/artigos/heroku-vercel-outras-opcoes-cloud-plataforma
